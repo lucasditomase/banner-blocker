@@ -1,0 +1,103 @@
+Public View, No Rights License (PVNR-1.0)
+Copyright (c) 2026 lucasditomase. All Rights Reserved.
+
+PREAMBLE
+
+This work (code, website, documentation, or any other content) is made PUBLICLY VISIBLE for transparency and
+reference only. Public visibility is NOT open source. No open-source
+license applies. If no license were included, default copyright law
+would already reserve all rights; this license exists solely to state
+that explicitly, so that no one mistakes "public repository" for
+"free to use".
+
+1. OWNERSHIP
+
+The Author retains all right, title, and interest in and to the Work,
+including all copyrights, neighboring rights, trademarks, patents,
+trade secrets, and any other intellectual property rights.
+
+2. VISIBILITY IS NOT A LICENSE
+
+You may view the Work on GitHub (or any mirror where the Author
+published it) in unmodified form through a standard web browser for
+informational purposes only. Viewing does not transfer ownership and
+does not grant any rights beyond what is stated in this Section.
+
+Any functionality provided by a hosting platform (such as "fork",
+"download", or "clone" buttons) is a feature of that platform, not a
+grant of rights by the Author. Using such features does not authorize
+you to use, copy, modify, distribute, or build upon the Work outside
+of mere platform-hosted viewing, except as minimally and automatically
+required by the platform to display the content you were explicitly
+permitted to view.
+
+3. NO RIGHTS GRANTED / PROHIBITED ACTS
+
+Except with the Author's prior, express, written permission, you MUST NOT:
+
+  (a) use, execute, deploy, run, or operate the Work, in whole or in
+      part, for any purpose, commercial or non-commercial;
+  (b) copy, reproduce, download (except transient browser caching for
+      viewing under Section 2), store, or archive the Work;
+  (c) modify, adapt, translate, transform, improve, fix, refactor,
+      create derivative works of, or otherwise alter the Work;
+  (d) distribute, publish, share, lend, rent, lease, sell, sublicense,
+      assign, or otherwise transfer the Work or any part thereof;
+  (e) incorporate the Work, in whole or in part, into any other
+      software, service, dataset, document, or product;
+  (f) remove, alter, or obscure any copyright, attribution, or license
+      notice;
+  (g) circumvent, bypass, or defeat any technical measure controlling
+      access to, copying of, or use of the Work;
+  (h) use the Work, including its code, text, comments, structure,
+      outputs, or any data derived from it, to train, fine-tune,
+      evaluate, benchmark, prompt-engineer, or otherwise develop any
+      machine-learning or artificial-intelligence model or system,
+      nor allow any automated crawler, scraper, or agent to do so on
+      your behalf;
+  (i) represent that you have any rights in the Work or authority to
+      grant rights in it.
+
+No implied licenses are granted, whether by estoppel, implication,
+course of dealing, or otherwise. No patent, trademark, publicity, or
+other rights are granted. All rights not expressly granted are reserved.
+
+4. NO CONTRIBUTOR LICENSE
+
+Submitting an issue, pull request, suggestion, or any other
+contribution does not grant you any rights in the Work, and does not
+obligate the Author to accept, review, compensate, or respond to it.
+If the Author accepts a contribution, all rights in that contribution
+as merged vest exclusively in the Author unless otherwise agreed in
+writing.
+
+5. REQUESTING PERMISSION
+
+If you want any right not granted above, contact the Author and obtain
+written permission BEFORE acting. Silence is not consent.
+
+6. TERMINATION
+
+Any unauthorized use automatically terminates any limited permission
+to view the Work under Section 2, and you must immediately delete and
+destroy all copies in your possession or control.
+
+7. DISCLAIMER AND LIABILITY
+
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT, OR OTHERWISE,
+ARISING FROM OR IN CONNECTION WITH THE WORK OR THE USE OR INABILITY
+TO USE THE WORK.
+
+8. INTERPRETATION
+
+If any provision of this license is held unenforceable, the remaining
+provisions remain in full effect. This license does not reduce or
+limit any protection the Author already enjoys under applicable
+copyright law; where this text and the law differ, the interpretation
+affording the GREATER protection to the Author prevails.
+
+END OF TERMS
