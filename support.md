@@ -1,3 +1,3 @@
-# Customer Support
+# Support
 
-### [Email the developer](mailto:rescates.jarrazo-7u@icloud.com?subject=Banner%20Blocker)
+- You can contact the developer from the app’s menus.

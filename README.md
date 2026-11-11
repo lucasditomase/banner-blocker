@@ -4,4 +4,4 @@
 
 ## [Terms of Service](terms-of-service.md)
 
-## [Customer Support](support.md)
+## [Support](support.md)
